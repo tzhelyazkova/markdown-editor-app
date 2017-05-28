@@ -1,0 +1,30 @@
+body {
+  font-color: #333;
+  background-color: #fffff0;
+} 
+body > h1 {
+  text-align: center;
+	color: #333;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#root {
+  margin: auto;
+  padding: auto;
+}
+
+textarea {
+  height: 500px;
+  width: 400px;
+  background-color: #f0f3bd;
+  border: 2px solid #028090;
+  border-radius: 5px;
+}
+.content {
+  height: 500px;
+  width: 400px;
+  background-color: #02c39a;
+  border: 2px solid #028090;
+  border-radius: 5px;
+}
